@@ -9,6 +9,7 @@
 <img src="https://neo4j.com/docs/graph-algorithms/current/images/cosine-similarity.png" width="50%">
 where A and B are the two vectors of nth dimension.
 
+
 3. Based on the similarity scores, output the top 30 players
 
 [Run the notebook on Google Colaboratory](https://colab.research.google.com/github/kavyajeetbora/player_scout_2019/blob/master/data/Similar_players.ipynb)
