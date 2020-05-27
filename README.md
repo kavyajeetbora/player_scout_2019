@@ -1,5 +1,5 @@
 ## Player Scout 2019
-Finding similar player for a given player based on [cosine similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
+Finding similar players for a given player based on [cosine similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
 The project is based on the [FIFA 19 dataset](https://www.kaggle.com/karangadiya/fifa19)
 
