@@ -1,0 +1,25 @@
+<!DOCSTYLE html>
+<html>
+
+<head>
+  <meta charset="utf-8"/>
+  <title>Player Scout</title>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="app.js"></script>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <h2 class="items">Player Scout 2019</h2>
+  <h3 class="items">Show me 30 players similar to the player:</h3>
+
+  <div class = "dropdown, items">
+    <input type='text' class = "items" placeholder="Player name" id="my_input" onclick="clearTable()">
+    <button class='submit' class="items" onclick="onClickedSimilarPlayers()" type='button'>Show Players</button>
+  </div>
+
+  <div class = "resutls, items", id = 'TABLE'>
+  </div>
+
+</body>
+</html>
