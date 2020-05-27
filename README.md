@@ -9,6 +9,6 @@ The project is based on the [FIFA 19 dataset](https://www.kaggle.com/karangadiya
 <img src="https://neo4j.com/docs/graph-algorithms/current/images/cosine-similarity.png" width="50%">
 where A and B are the two vectors of nth dimension. 
 
-- output the top 30 players as show below:
+- Based on the similarity scores, output the top 30 players as show below:
 
 <img src="player_scout_2019.gif" width="70%">
