@@ -9,7 +9,7 @@ The project is based on the [FIFA 19 dataset](https://www.kaggle.com/karangadiya
 1. Convert the player features to standardised vectors 
 2. Find out the similarity or the cosine angle between the two vectors (of players), smaller the angle more is the similarity. The cosine similarity formula between two vectors is shown below: 
 <img src="https://neo4j.com/docs/graph-algorithms/current/images/cosine-similarity.png" width="50%">
-*where A and B are the two vectors of nth dimension.* 
+where A and B are the two vectors of nth dimension.
 
 3. Based on the similarity scores, output the top 30 players
 
