@@ -11,4 +11,4 @@ where A and B are the two vectors of nth dimension.
 
 - output the top 30 players as show below:
 
-<img src="player_scout_2019.gif" width="80%">
+<img src="player_scout_2019.gif" width="70%">
