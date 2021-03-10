@@ -1,6 +1,7 @@
 ## Soccer Player recommendation system based on player's similarity
 
 **Objective**: Finding similar players to a given player based on [cosine similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
+
 ![](https://raw.githubusercontent.com/kavyajeetbora/player_scout_2019/master/player_scout_2019.gif)
 
 **Outline of the project** - 
