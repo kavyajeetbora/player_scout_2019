@@ -1,7 +1,7 @@
 ## Soccer Player recommendation system based on player's similarity
 
 **Objective**: Finding similar players to a given player based on [cosine similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
-<img src="https://raw.githubusercontent.com/kavyajeetbora/player_scout_2019/master/player_scout_2019.gif" width="70%">
+![](https://raw.githubusercontent.com/kavyajeetbora/player_scout_2019/master/player_scout_2019.gif)
 
 **Outline of the project** - 
 1. Convert the player features to standardised vectors. Player features are based on [FIFA 19 dataset](https://www.kaggle.com/karangadiya/fifa19)
