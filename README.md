@@ -7,7 +7,9 @@
 **Outline of the project** - 
 1. Convert the player features to standardised vectors. Player features are based on [FIFA 19 dataset](https://www.kaggle.com/karangadiya/fifa19)
 2. Find out the similarity or the cosine angle between the two vectors (of players), smaller the angle more is the similarity. The cosine similarity formula between two vectors is shown below: 
-<img src="https://neo4j.com/docs/graph-algorithms/current/images/cosine-similarity.png" width="50%">
+
+![presentation](https://user-images.githubusercontent.com/38955297/192730749-e59780c3-36c9-420a-b9f4-d1dd021fd219.gif)
+
 where A and B are the two vectors of nth dimension.
 
 
